@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-hms-push"
-	version="6.3.0-304-dev.1.0"
+	version="6.3.0-304"
 	xmlns="http://apache.org/cordova/ns/plugins/1.0">
 	<name>
 		Cordova Plugin HMS Push
